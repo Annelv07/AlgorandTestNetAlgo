@@ -1,4 +1,4 @@
-# Fill a MyAlgo Wallet with TestNet test ALGO
+# Fill MyAlgo Wallet with TestNet test ALGOs
 
 Algorand – the world’s most decentralised, scalable, secure and sustainable blockchain 
 infrastructure founded by Silvio Micali in 2017.
