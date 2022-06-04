@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  4 11:45:50 2022
 
-@author: User
-"""
 
 from algosdk.v2client import algod
 
