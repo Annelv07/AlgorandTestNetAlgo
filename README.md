@@ -28,6 +28,9 @@ or
 pip3 install py-algorand-sdk
 ```
 
+You can check details of py-algorand-sdk on the <a href="https://github.com/algorand/py-algorand-sdk">Official Github of Algorand</a>! <br>
+See py-algorand-sdk documentation <a href="https://py-algorand-sdk.readthedocs.io/en/latest/index.html">here</a>!
+
 #### Additional Notes
 Before you run the code for to check the amount in wallet(not the SDK installation), make sure that you already set up Algorand Sandbox on your Linux, Windows Subsystem for Linux (Ubuntu), or Zsh environment. 
 
